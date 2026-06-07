@@ -2,9 +2,7 @@
 
 If I showed you a photo of a mole and asked whether it was cancerous, you'd probably say "go see a doctor." Fair. But what if you're in a rural area, or you just want a second opinion before making that appointment?
 
-Skin cancer is one of the most common cancers worldwide, and early detection makes an enormous difference in outcomes. The catch: most people can't tell a benign lesion from a malignant one just by looking.
-
-So I built something that can.
+Skin cancer is one of the most common cancers worldwide, and early detection makes an enormous difference in outcomes. The catch: most people can't tell a benign lesion from a malignant one just by looking. So I built something that can.
 
 SkinSight is a web app that takes an image of a skin lesion and classifies it using a deep learning model trained on dermoscopy data. Upload a photo, get a result, see what the model thinks, and decide whether it's worth that doctor's visit.
 
